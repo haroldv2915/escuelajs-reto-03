@@ -1,13 +1,13 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Harold Velasquez Barona
+Usuario Platzi: Haroldv29@gmail.com
 
 ## Ciudad
 - [ ] Ciudad de México
-- [ ] Bogotá
+- [x] Bogotá
 
 # Retos:
-  - [ ] Primer problema
+  - [x] Primer problema
   - [ ] Segundo problema
   - [ ] Tercer problema
